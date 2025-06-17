@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/shadowbuddy/static/js/main.78ef3739.js",
+    "index.html": "/shadowbuddy/index.html",
+    "main.78ef3739.js.map": "/shadowbuddy/static/js/main.78ef3739.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.78ef3739.js"
+  ]
+}
